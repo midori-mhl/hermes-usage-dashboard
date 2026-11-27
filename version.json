@@ -1,7 +1,7 @@
 {
-  "version": "2026-11-27T02:02:54+09:00",
-  "generated_at": "2026-11-27T02:02:54+09:00",
-  "total_tokens": 11452481445,
-  "html_sha256": "216770cd935ef119c9ce1f915846ff5e055484dfac45706115306458073f6519",
-  "schema_version": 2
+  "version": "2026-11-27T15:19:55+09:00",
+  "generated_at": "2026-11-27T15:19:55+09:00",
+  "total_tokens": 11296405104,
+  "html_sha256": "63286192f54baffc812498c45f8ae3d13d390af770bb9c75887ed77694e3cf8d",
+  "schema_version": 4
 }
